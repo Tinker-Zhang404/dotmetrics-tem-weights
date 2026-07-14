@@ -1,0 +1,7 @@
+# Copy this file, replace the path, and use the copy with train.py.
+path: /absolute/path/to/your/tem-dataset
+train: images/train
+val: images/val
+
+names:
+  0: cds
